@@ -14,3 +14,8 @@ A football player analytics platform built with Python, Dash, and PostgreSQL usi
 
 ## Main Dashboard
 ![Dashboard Screenshot](assets/demo.png)
+
+## Coming Soon
+- Advanced player metrics (xG, xA, pass completion)
+- Player Metrics Card
+- & Many More
