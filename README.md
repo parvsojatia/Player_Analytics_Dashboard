@@ -11,3 +11,6 @@ A football player analytics platform built with Python, Dash, and PostgreSQL usi
 - **Backend**: Python, PostgreSQL
 - **Frontend**: Dash (Plotly)
 - **Data**: StatsBomb Open Data
+
+- ### Main Dashboard
+![Dashboard Screenshot](assets/demo.png)
